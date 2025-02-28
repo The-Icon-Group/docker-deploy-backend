@@ -16,3 +16,4 @@ ENTRYPOINT ["java", "-Dspring.profiles.active=${JAVA_PROFILE}", \
   "-cp", "app:/app/lib/*", "camt.se234.lab10.Lab10Application"]
 
   #ม่วนหน่าแต่ฮาบ่เปิง#
+  #กินข้าวแลง#
